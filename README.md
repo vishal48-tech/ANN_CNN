@@ -1,8 +1,8 @@
-🧠 ANN & CNN Image Classification (MNIST & Fashion-MNIST)
+#🧠 ANN & CNN Image Classification (MNIST & Fashion-MNIST)
 
 This project demonstrates the implementation and comparison of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) for image classification using the MNIST and Fashion-MNIST datasets.
 
-📌 Project Overview
+#📌 Project Overview
 
 Built ANN and CNN models using TensorFlow/Keras to classify handwritten digits and fashion items.
 
@@ -12,7 +12,7 @@ Implemented CNN feature extraction using vertical and horizontal filters to visu
 
 Compared model performance between ANN and CNN architectures.
 
-🧠 Key Techniques Used
+#🧠 Key Techniques Used
 
 Artificial Neural Networks (ANN)
 
@@ -26,7 +26,7 @@ Early Stopping (EarlyStopper) to prevent unnecessary training and improve genera
 
 Model evaluation using accuracy and loss metrics
 
-📊 Results & Insights
+#📊 Results & Insights
 
 CNN significantly outperformed ANN due to spatial feature learning.
 
@@ -34,7 +34,7 @@ Filter visualizations helped understand how CNN detects edges and patterns.
 
 Regularization techniques improved validation performance and reduced overfitting.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Python
 
@@ -44,6 +44,6 @@ NumPy
 
 Matplotlib
 
-🚀 Use Case
+#🚀 Use Case
 
 This project highlights practical Deep Learning fundamentals, model optimization techniques, and interpretability—making it suitable for startup-oriented Data Scientist / ML Engineer roles.
